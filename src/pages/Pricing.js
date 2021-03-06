@@ -25,7 +25,7 @@ const hB = ["430px", "430px", "630px", "630px", "630px", "630px"];
 // const wS = ["200px", "200px", "200px", "200px", "370px", "370px"];
 // const hS = ["330px", "330px", "330px", "330px", "530px", "530px"];
 
-const fontSize = ["1.5rem", "1.5rem", "2rem", "2rem", "2rem", "2rem"];
+const fontSize = ["1.2rem", "1.2rem", "2rem", "2rem", "2rem", "2rem"];
 
 //  {/* for the 1st render to set the display state display or not*/}
 const disp = window.innerWidth > 1450 ? "Display" : "NotDisplay";
