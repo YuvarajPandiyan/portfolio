@@ -77,7 +77,7 @@ function GridLayout() {
       {/* Pricing */}
 
       <GridItem
-        height={["72vh", "72vh", "100vh", "100vh", "100vh", "100vh"]}
+        height={["100vh", "100vh", "120vh", "120vh", "120vh", "100vh"]}
         rowStart={5}
         background={
           "linear-gradient(119deg, #7C67F1 0%, #65DE6D87 65%, #FF00C4 100%)"
